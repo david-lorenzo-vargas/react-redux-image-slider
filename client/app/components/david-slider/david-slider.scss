@@ -1,0 +1,40 @@
+.slider {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 55px 0;
+}
+
+.button {
+  border: none;
+  width: 150px;
+  margin: 0 auto;
+  padding: 0 5px;
+  border: 3px solid #66A182;
+  color: #66A182;
+  cursor: pointer;
+  text-align: center;
+  border-radius: 40px;
+
+  &:hover {
+    background-color: #66A182;
+    color: #fff;
+  }
+
+  &-icon {
+    text-transform: uppercase;
+    font-size: 40px;
+    font-weight: bold;
+  }
+}
+
+.image {
+  text-align: center;
+}
+
+.dots {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+}
