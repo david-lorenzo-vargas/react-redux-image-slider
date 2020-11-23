@@ -1,0 +1,11 @@
+.dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  border: 2px solid #66A182;
+  margin: 5px;
+
+  &--active {
+    background-color: #66A182;;
+  }
+}
