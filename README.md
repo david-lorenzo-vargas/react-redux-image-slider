@@ -1,10 +1,16 @@
-# Redux-React-Slider
+# IMAGE SLIDER
 
-FIRST RENDER <br>
-![redux-slider-1](https://user-images.githubusercontent.com/72414745/100002107-6833d780-2dc4-11eb-9f05-6d0c03b5658a.jpg)
+## Description
+Image slider built with React and managing the state with Redux.
 
-NEXT IMAGE <br>
-![redux-slider-2](https://user-images.githubusercontent.com/72414745/100002108-6833d780-2dc4-11eb-8642-18fc1d8184ef.jpg)
+Click on the arrow buttons to go the the next image or to the previous image. Once you have reached the last image, the slider starts from the first image recreating a infinite loop of images. 
 
-PREVIOUS IMAGE <br>
-![redux-slider-3](https://user-images.githubusercontent.com/72414745/100002101-6702aa80-2dc4-11eb-9f44-2164cfd10597.jpg)
+When you are in one image, the corresponding dot is selected to show the user in wich image number is.
+
+## Technologies
+HTML, SCSS modules, React, Redux, Babel, Eslint, Stylelint, Webpack
+
+## Demo
+
+![slider](https://user-images.githubusercontent.com/72414745/101021856-c30dc180-3570-11eb-80b4-c067940406b0.gif)
+
