@@ -12,5 +12,5 @@ HTML, SCSS modules, React, Redux, Babel, Eslint, Stylelint, Webpack
 
 ## Demo
 
-![slider](https://user-images.githubusercontent.com/72414745/101021856-c30dc180-3570-11eb-80b4-c067940406b0.gif)
+![slider](https://user-images.githubusercontent.com/72414745/101049223-9dd67e80-3583-11eb-9e73-c19414baa8e6.gif)
 
