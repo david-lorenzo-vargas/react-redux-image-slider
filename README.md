@@ -8,7 +8,7 @@ Click on the arrow buttons to go the the next image or to the previous image. On
 When you are in one image, the corresponding dot is selected to show the user in wich image number is.
 
 ## Technologies
-HTML, SCSS modules, React, Redux, Babel, Eslint, Stylelint, Webpack
+HTML, SCSS modules, JavaScript, React, Redux, Babel, Eslint, Stylelint, Webpack
 
 ## Demo
 
